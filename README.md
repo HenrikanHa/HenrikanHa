@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello, I'm Thanh Cong Nguyen! 👩‍💻
+
+I am pursuing a major in Computer Science at the University of San Francisco and anticipate graduating in December 2025.
+
+Pronouns: he/him.
+Title: Henrik (preferred), Thanh, or Thanh Cong.
 
 <!--
 **HenrikanHa/HenrikanHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
