@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thanh Cong (Henrik) Nguyen</h1>
 <h3 align="center">I am pursuing a major in Computer Science at the University of San Francisco and anticipate graduating in December 2025.</h3>
+
 - Pronouns: he/him.
+
 - Title: Henrik (preferred), Thanh, or Thanh Cong.
+  
 - 🌱 I’m currently learning **CS 272-Software Development/CS 286-Full-stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenrikanHa](https://github.com/HenrikanHa)
